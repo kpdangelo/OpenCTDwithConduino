@@ -17,6 +17,9 @@ a Conduino.
 
 PCBs can be ordered from OSHPARK, or Eagle and Gerber files are included here.
 
-The system goes into a 2" PVC pipe and details of that will be coming soon after I edit the end-cap, but the gist of it can be found at the Open CTD site.
+The system goes into a 2" PVC pipe and seals with Marine Epoxy and a 3D printed plug (file included here). 
+See Conduino Pipe Assembly.pdf file.
 
-March 11, 2018
+First test was taking it into the surf and turbulence here at Spanish Bay for a few minutes, see excel file for that gem.
+
+March 25, 2018
