@@ -23,3 +23,6 @@ See Conduino Pipe Assembly.pdf file.
 First test was taking it into the surf and turbulence here at Spanish Bay for a few minutes, see excel file for that gem.
 
 March 25, 2018
+
+3/27/18
+slight modification to the schematic to take away the filter on the network analyzer buffer (C5 and R3). It was giving a gigantic time constant to the measurement.
