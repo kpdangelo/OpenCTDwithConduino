@@ -1,6 +1,10 @@
 # OpenCTDwithConduino
 OpenCTD with a low cost Conduino conductivity sensor
 
+*********************************************************************************************************************************************
+This version is the basic design. During testing, a major drift in the reading was discovered. Two revisions were made, with some improvement. Continuing research is being done on Version 3 - see a separate entry for that, OpenCTDwithConduinoV3.
+*********************************************************************************************************************************************
+
 This project merges the Oceanography for Everyone Open CTD with the Conduino conductivity sensor.
 
 Open CTD:
