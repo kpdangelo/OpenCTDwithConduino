@@ -1,6 +1,8 @@
 # OpenCTDwithConduino
 OpenCTD with a low cost Conduino conductivity sensor
 
+This has drift issues, see https://github.com/kpdangelo/OpenCTD-Conduino-K1.0 
+
 *********************************************************************************************************************************************
 This version is the basic design. During testing, a major drift in the reading was discovered. Two revisions were made, with some improvement. Continuing research is being done on Version 3 - see a separate entry for that, OpenCTDwithConduinoV3.
 *********************************************************************************************************************************************
